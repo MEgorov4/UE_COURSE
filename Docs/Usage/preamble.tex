@@ -1,0 +1,56 @@
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{amsmath}
+\usepackage{setspace}
+\usepackage[a4paper, left=2.5cm, right=1.5cm, top=2cm, bottom=2cm]{geometry}
+\usepackage{array}
+\usepackage{ragged2e}
+\usepackage{longtable}
+\usepackage{blindtext}
+\usepackage{titlesec}
+\usepackage{tocloft} % Для изменения стилей оглавления
+\usepackage{enumitem} % Для настройки списков
+\usepackage{indentfirst}
+\usepackage{graphicx}
+\usepackage{caption}
+%Отступ первой строки
+\setlength{\parindent}{1.25cm}
+%Расстояние между абзацами
+\setlength{\parskip}{0pt}
+%Междустрочный интервал
+\linespread{1.5}
+
+% Настройка формата для разделов
+\titleformat{\section}[block]
+{\normalfont\bfseries}
+{\thesection} % Нумерация
+{0.5em} % Отступ после номера 
+{} % Допоолнительное оформления заголовкао
+[] % Десйствие после заголовка
+
+
+% Настройка формата для подразделов (subsection)
+\titleformat{\subsection}[block]
+{\normalfont\bfseries} % Жирный
+{\thesubsection} % Нумерация подраздела
+{0.5em} % Отступ между номером и заголовком
+{}
+[]
+
+% Настройка формата для подподразделов (subsubsection)
+\titleformat{\subsubsection}[block]
+{\normalfont\bfseries} % Полужирный шрифт нормального размера
+{\thesubsubsection} % Нумерация подподраздела
+{0.5em} % Отступ
+{}
+[]
+
+% Настройка стиля оглавления
+\renewcommand{\cftsecfont}{\normalfont}
+\renewcommand{\cftsecpagefont}{\normalfont}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cfttoctitlefont}{\normalsize }
+\addto\captionsrussian{\renewcommand{\contentsname}{СОДЕРЖАНИЕ}}
+\setlength{\cftbeforesecskip}{0cm}
+
+\captionsetup[figure]{name=Рисунок, labelsep=space}
