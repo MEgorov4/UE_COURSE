@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.8)  20 OCT 2024 21:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.8)  21 OCT 2024 17:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -517,7 +517,7 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 6.
  (C:\Users\mikhail\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) (Lections/Lection1.aux))
+) (Lections/Lection1.aux) (Tasks/Week1.aux))
 \openout1 = `CourseDocumentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -679,30 +679,62 @@ File: Lections/BasicStructure.png Graphic file (type png)
 <use Lections/BasicStructure.png>
 Package pdftex.def Info: Lections/BasicStructure.png  used on input line 104.
 (pdftex.def)             Requested size: 362.77264pt x 173.6645pt.
+<Lections/LevelBlueprint.png, id=38, 1924.18875pt x 697.60625pt>
+File: Lections/LevelBlueprint.png Graphic file (type png)
+<use Lections/LevelBlueprint.png>
+Package pdftex.def Info: Lections/LevelBlueprint.png  used on input line 112.
+(pdftex.def)             Requested size: 362.77264pt x 131.51404pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 
 [6 <./Lections/BasicStructure.png>]
+<Lections/BlueprintOverview.png, id=44, 1925.1925pt x 1035.87pt>
+File: Lections/BlueprintOverview.png Graphic file (type png)
+<use Lections/BlueprintOverview.png>
+Package pdftex.def Info: Lections/BlueprintOverview.png  used on input line 125.
+(pdftex.def)             Requested size: 435.32422pt x 234.23033pt.
 
-[7])
 
-[8] (CourseDocumentation.aux (Usage/Title.aux) (Lections/Lection1.aux))
+[7 <./Lections/LevelBlueprint.png> <./Lections/BlueprintOverview.png>]
+<Lections/CreateReferenceToCube.png, id=50, 1924.18875pt x 1034.86626pt>
+File: Lections/CreateReferenceToCube.png Graphic file (type png)
+<use Lections/CreateReferenceToCube.png>
+Package pdftex.def Info: Lections/CreateReferenceToCube.png  used on input line 153.
+(pdftex.def)             Requested size: 435.32422pt x 234.1139pt.
+
+
+[8 <./Lections/CreateReferenceToCube.png>]
+<Lections/DestroyCubeBeginPlay.png, id=56, 1925.1925pt x 1037.8775pt>
+File: Lections/DestroyCubeBeginPlay.png Graphic file (type png)
+<use Lections/DestroyCubeBeginPlay.png>
+Package pdftex.def Info: Lections/DestroyCubeBeginPlay.png  used on input line 167.
+(pdftex.def)             Requested size: 435.32422pt x 234.68428pt.
+)
+
+[9 <./Lections/DestroyCubeBeginPlay.png>]
+\openout2 = `Tasks/Week1.aux'.
+
+ (Tasks/Week1.tex) (CourseDocumentation.aux (Usage/Title.aux) (Lections/Lection1.aux) (Tasks/Week1.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7224 strings out of 473899
- 121143 string characters out of 5725557
+ 7279 strings out of 473899
+ 123046 string characters out of 5725557
  1932960 words of memory out of 5000000
- 29997 multiletter control sequences out of 15000+600000
+ 30043 multiletter control sequences out of 15000+600000
  567118 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,8n,70p,788b,372s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1200.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk><C:/Users/mikhail/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on CourseDocumentation.pdf (9 pages, 2376454 bytes).
+Output written on CourseDocumentation.pdf (10 pages, 3789525 bytes).
 PDF statistics:
- 328 PDF objects out of 1000 (max. 8388607)
+ 341 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

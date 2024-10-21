@@ -6,4 +6,3 @@
 \contentsline {subsection}{\numberline {1.4}Шаг 4. Режимы запуска проекта}{5}{}%
 \contentsline {subsection}{\numberline {1.5}Шаг 5. Базовая логика и Level Blueprint}{6}{}%
 \contentsline {subsubsection}{\numberline {1.5.1}Редактор Blueprints}{7}{}%
-\contentsline {subsubsection}{\numberline {1.5.2}Типы данных}{8}{}%
