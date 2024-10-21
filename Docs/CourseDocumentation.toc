@@ -1,7 +1,9 @@
 \babel@toc {russian}{}\relax 
-\contentsline {section}{\numberline {1}СОЗДАНИЕ ПРИМИТИВНОГО ПРОЕКТА С НУЛЯ}{2}{}%
-\contentsline {subsection}{\numberline {1.1}Шаг 1 Project Browser}{2}{}%
-\contentsline {subsection}{\numberline {1.2}Шаг 2 Настройка интерфейса и cоздание yровня}{2}{}%
-\contentsline {subsection}{\numberline {1.3}Шаг 3 Работа с базовыми объектами}{3}{}%
-\contentsline {subsection}{\numberline {1.4}Шаг 4 Режимы запуска проекта}{5}{}%
-\contentsline {subsection}{\numberline {1.5}Шаг 5 Базовая логика и level blueprint}{5}{}%
+\contentsline {section}{\numberline {1}Создание Примитивного Проекта с Нуля}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Шаг 1. Project Browser}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Шаг 2. Настройка интерфейса и создание уровня}{2}{}%
+\contentsline {subsection}{\numberline {1.3}Шаг 3. Работа с базовыми объектами}{4}{}%
+\contentsline {subsection}{\numberline {1.4}Шаг 4. Режимы запуска проекта}{5}{}%
+\contentsline {subsection}{\numberline {1.5}Шаг 5. Базовая логика и Level Blueprint}{6}{}%
+\contentsline {subsubsection}{\numberline {1.5.1}Редактор Blueprints}{7}{}%
+\contentsline {subsubsection}{\numberline {1.5.2}Типы данных}{8}{}%

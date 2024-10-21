@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.8)  19 OCT 2024 19:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.8)  20 OCT 2024 21:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -613,80 +613,96 @@ Package caption Info: End \AtBeginDocument code.
 \openout2 = `Lections/Lection1.aux'.
 
  (Lections/Lection1.tex
-Overfull \hbox (3.0528pt too wide) in paragraph at lines 5--8
-[]\T2A/cmr/m/n/12 Первым де-лом для со-зда-ния про-ек-та нам по-тре-бу-ет-ся от-крыть unreal project browser.
- []
-
 <Lections/ProjectBrowser.png, id=10, 1180.41pt x 778.91pt>
 File: Lections/ProjectBrowser.png Graphic file (type png)
 <use Lections/ProjectBrowser.png>
-Package pdftex.def Info: Lections/ProjectBrowser.png  used on input line 12.
+Package pdftex.def Info: Lections/ProjectBrowser.png  used on input line 13.
 (pdftex.def)             Requested size: 483.69687pt x 319.16501pt.
 
-Overfull \hbox (24.31564pt too wide) in paragraph at lines 16--17
-[]\T2A/cmr/m/n/12 Для на-ча-ла уста-но-вим клас-си-че-ский ин-тер-фейс ре-дак-то-ра че-рез верх-нее ме-ню \T2A/cmr/bx/n/12 Window-
+Overfull \hbox (19.81674pt too wide) in paragraph at lines 18--19
+[]\T2A/cmr/m/n/12 Для на-ча-ла уста-но-вим клас-си-че-ский ин-тер-фейс ре-дак-то-ра че-рез верх-нее ме-ню \T2A/cmr/bx/n/12 Window
  []
 
-<Lections/Layout.png, id=13, 827.09pt x 733.74126pt>
+<Lections/Layout.png, id=12, 827.09pt x 733.74126pt>
 File: Lections/Layout.png Graphic file (type png)
 <use Lections/Layout.png>
-Package pdftex.def Info: Lections/Layout.png  used on input line 20.
+Package pdftex.def Info: Lections/Layout.png  used on input line 22.
 (pdftex.def)             Requested size: 483.69687pt x 429.10815pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Lections/LevelChange.jpg, id=15, 1442.38875pt x 773.89125pt>
+<Lections/LevelChange.jpg, id=13, 1442.38875pt x 773.89125pt>
 File: Lections/LevelChange.jpg Graphic file (type jpg)
 <use Lections/LevelChange.jpg>
-Package pdftex.def Info: Lections/LevelChange.jpg  used on input line 31.
+Package pdftex.def Info: Lections/LevelChange.jpg  used on input line 32.
 (pdftex.def)             Requested size: 483.69687pt x 259.51791pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 
 [2
 
  <./Lections/ProjectBrowser.png>]
 
-[3 <./Lections/Layout.png>]
-<Lections/LevelAgrigation.png, id=31, 1570.86874pt x 552.0625pt>
-File: Lections/LevelAgrigation.png Graphic file (type png)
-<use Lections/LevelAgrigation.png>
-Package pdftex.def Info: Lections/LevelAgrigation.png  used on input line 54.
-(pdftex.def)             Requested size: 483.69687pt x 169.98354pt.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Overfull \hbox (2.10555pt too wide) in paragraph at lines 59--60
-[]\T2A/cmr/bx/n/12 Transform \T2A/cmr/m/n/12 - это струк-ту-ра со-дер-жа-щая 3 век-то-ра(Location - рас-по-ло-же-ние, Rotation
+
+
+[3 <./Lections/Layout.png>]
+Overfull \hbox (6.16661pt too wide) in paragraph at lines 40--41
+[]\T2A/cmr/m/n/12 В клас-си-че-ском отоб-ра-же-нии ин-тер-фей-са сле-ва мож-но уви-деть па-нель \T2A/cmr/bx/n/12 Place Actors\T2A/cmr/m/n/12 . 
  []
 
-<Lections/image.png, id=33, 1454.43375pt x 585.18625pt>
-File: Lections/image.png Graphic file (type png)
-<use Lections/image.png>
-Package pdftex.def Info: Lections/image.png  used on input line 70.
+<Lections/LevelAgrigation.png, id=24, 1570.86874pt x 552.0625pt>
+File: Lections/LevelAgrigation.png Graphic file (type png)
+<use Lections/LevelAgrigation.png>
+Package pdftex.def Info: Lections/LevelAgrigation.png  used on input line 56.
+(pdftex.def)             Requested size: 483.69687pt x 169.98354pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[4 <./Lections/LevelChange.jpg>]
+Overfull \hbox (9.46976pt too wide) in paragraph at lines 67--68
+\T2A/cmr/m/n/12 фи-зи-ки, вклю-чим еј и под-ни-мем куб над по-лом. Те-перь за-пу-стим про-ект в ре-жи-ме \T2A/cmr/bx/n/12 Simulate\T2A/cmr/m/n/12 . 
+ []
+
+<Lections/StartInSimilate.png, id=31, 1454.43375pt x 585.18625pt>
+File: Lections/StartInSimilate.png Graphic file (type png)
+<use Lections/StartInSimilate.png>
+Package pdftex.def Info: Lections/StartInSimilate.png  used on input line 71.
 (pdftex.def)             Requested size: 483.69687pt x 194.61217pt.
 
 
-[4 <./Lections/LevelChange.jpg> <./Lections/LevelAgrigation.png>])
+[5 <./Lections/LevelAgrigation.png> <./Lections/StartInSimilate.png>]
+<Lections/BasicStructure.png, id=37, 849.1725pt x 406.51875pt>
+File: Lections/BasicStructure.png Graphic file (type png)
+<use Lections/BasicStructure.png>
+Package pdftex.def Info: Lections/BasicStructure.png  used on input line 104.
+(pdftex.def)             Requested size: 362.77264pt x 173.6645pt.
 
-[5 <./Lections/image.png>] (CourseDocumentation.aux (Usage/Title.aux) (Lections/Lection1.aux))
+
+[6 <./Lections/BasicStructure.png>]
+
+[7])
+
+[8] (CourseDocumentation.aux (Usage/Title.aux) (Lections/Lection1.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7208 strings out of 473899
- 120677 string characters out of 5725557
- 1929960 words of memory out of 5000000
- 29982 multiletter control sequences out of 15000+600000
- 566777 words of font info for 56 fonts, out of 8000000 for 9000
+ 7224 strings out of 473899
+ 121143 string characters out of 5725557
+ 1932960 words of memory out of 5000000
+ 29997 multiletter control sequences out of 15000+600000
+ 567118 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,8n,70p,653b,305s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk>
-Output written on CourseDocumentation.pdf (6 pages, 2347580 bytes).
+ 64i,8n,70p,788b,372s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1200.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\mikhail\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2488.pk><C:/Users/mikhail/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on CourseDocumentation.pdf (9 pages, 2376454 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
+ 328 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
