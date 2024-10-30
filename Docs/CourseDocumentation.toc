@@ -6,3 +6,7 @@
 \contentsline {subsection}{\numberline {1.4}Шаг 4. Режимы запуска проекта}{5}{}%
 \contentsline {subsection}{\numberline {1.5}Шаг 5. Базовая логика и Level Blueprint}{6}{}%
 \contentsline {subsubsection}{\numberline {1.5.1}Редактор Blueprints}{7}{}%
+\contentsline {section}{\numberline {2}Обзор базовых инструментов}{10}{}%
+\contentsline {subsection}{\numberline {2.1}Материалы}{10}{}%
+\contentsline {subsection}{\numberline {2.2}Динамическое создание AActor}{11}{}%
+\contentsline {subsection}{\numberline {2.3}Создание первого Blueprint класса, унаследованного от AActor}{12}{}%
